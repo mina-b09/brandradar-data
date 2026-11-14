@@ -14,7 +14,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "AllSaints",
@@ -31,7 +31,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "AllSaints",
@@ -48,7 +48,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "AllSaints",
@@ -65,7 +65,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Aritzia",
@@ -82,7 +82,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Aritzia",
@@ -99,7 +99,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "BOSS",
@@ -116,7 +116,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "BOSS",
@@ -133,24 +133,24 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Club Monaco",
     "country": "CA",
     "category": "Apparel",
     "url": "https://www.clubmonaco.ca",
-    "status": "NO DEALS",
-    "preview": "No active deals",
-    "detail": "No deal emails found in the last 3 days.",
-    "email_date": "N/A",
-    "discount": "N/A",
+    "status": "SALE",
+    "preview": "Clearance Just Got Better",
+    "detail": "Save an Additional 20% Off Clearance Now ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏",
+    "email_date": "Sat, 14 Nov 2026 14:02:04 +0000 (UTC)",
+    "discount": "20% off",
     "code": "N/A",
     "tags": [],
     "expires": "N/A",
-    "updated_at": "2026-11-09T17:38:26Z",
+    "updated_at": "2026-11-14T16:52:42Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Club Monaco",
@@ -167,7 +167,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Good American",
@@ -184,7 +184,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Motel Rocks",
@@ -201,7 +201,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Oh Polly",
@@ -218,7 +218,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Pangaia",
@@ -235,7 +235,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Skims",
@@ -252,7 +252,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Skinnydip London",
@@ -269,7 +269,7 @@
     "expires": "N/A",
     "updated_at": "2026-11-13T16:14:01Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Alo",
@@ -286,7 +286,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Alo",
@@ -303,7 +303,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Gymshark",
@@ -320,7 +320,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Gymshark",
@@ -337,7 +337,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Lululemon",
@@ -354,7 +354,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Lululemon",
@@ -371,7 +371,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Adidas",
@@ -388,7 +388,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Adidas",
@@ -405,7 +405,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Nike",
@@ -422,7 +422,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Nike",
@@ -439,7 +439,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Armani Beauty",
@@ -456,7 +456,7 @@
     "expires": "N/A",
     "updated_at": "2026-11-13T16:14:01Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Armani Beauty",
@@ -473,24 +473,24 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Bobbi Brown",
     "country": "CA",
     "category": "Beauty",
     "url": "https://www.bobbibrowncosmetics.ca",
-    "status": "SALE",
-    "preview": "Final hours: 25% off + a FREE full-size gifts",
-    "detail": "Your Singles&#39; Day offer is almost over. ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏",
-    "email_date": "Wed, 11 Nov 2026 23:01:26 +0000",
-    "discount": "25% off",
+    "status": "NO DEALS",
+    "preview": "No active deals",
+    "detail": "No deal emails found in the last 3 days.",
+    "email_date": "N/A",
+    "discount": "N/A",
     "code": "N/A",
     "tags": [],
     "expires": "N/A",
-    "updated_at": "2026-11-13T16:14:01Z",
+    "updated_at": "2026-11-14T16:52:42Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Bobbi Brown",
@@ -507,7 +507,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Clinique",
@@ -524,7 +524,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Clinique",
@@ -541,24 +541,24 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Colourpop",
     "country": "Global",
     "category": "Beauty",
     "url": "https://www.colourpop.com",
-    "status": "SALE",
-    "preview": "Ends tonight! Buy one get one free Advent Calendars 🤑",
-    "detail": "Happy Singles&#39; Day bestie! 🎁 ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏",
-    "email_date": "Wed, 11 Nov 2026 18:26:07 +0000 (UTC)",
+    "status": "NO DEALS",
+    "preview": "No active deals",
+    "detail": "No deal emails found in the last 3 days.",
+    "email_date": "N/A",
     "discount": "N/A",
     "code": "N/A",
     "tags": [],
     "expires": "N/A",
-    "updated_at": "2026-11-13T16:14:01Z",
+    "updated_at": "2026-11-14T16:52:42Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Danessa Myricks",
@@ -575,7 +575,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-26T02:19:42Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Glossier",
@@ -592,7 +592,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Huda Beauty",
@@ -609,7 +609,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Jones Road Beauty",
@@ -626,24 +626,24 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Juvia's Place",
     "country": "Global",
     "category": "Beauty",
     "url": "https://www.juviasplace.com",
-    "status": "NO DEALS",
-    "preview": "No active deals",
-    "detail": "No deal emails found in the last 3 days.",
-    "email_date": "N/A",
+    "status": "NEW LAUNCH",
+    "preview": "NEWNESS: 8 Blushed Duos Just Dropped!",
+    "detail": "Your blush game just got BIGGER! Meet Volumes 7–14 with bold new shades for just $20 each. ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏",
+    "email_date": "Sat, 14 Nov 2026 01:45:06 +0000 (UTC)",
     "discount": "N/A",
     "code": "N/A",
     "tags": [],
     "expires": "N/A",
-    "updated_at": "2026-11-13T16:14:01Z",
+    "updated_at": "2026-11-14T16:52:42Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Kylie Cosmetics",
@@ -660,7 +660,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Lisa Eldridge Beauty",
@@ -677,7 +677,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "MAC Cosmetics",
@@ -694,7 +694,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "MAC Cosmetics",
@@ -711,7 +711,7 @@
     "expires": "N/A",
     "updated_at": "2026-11-13T16:14:01Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "MAC Cosmetics",
@@ -728,7 +728,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Merit",
@@ -745,7 +745,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Moira Beauty",
@@ -762,7 +762,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "NARS",
@@ -779,7 +779,7 @@
     "expires": "N/A",
     "updated_at": "2026-11-13T16:14:01Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "NARS",
@@ -796,7 +796,7 @@
     "expires": "N/A",
     "updated_at": "2026-11-13T16:14:01Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Pat McGrath Labs",
@@ -804,16 +804,16 @@
     "category": "Beauty",
     "url": "https://www.patmcgrath.com",
     "status": "SALE",
-    "preview": "The Most Coveted Kits of the Season",
-    "detail": "20% off $75+ and a complimentary Luxe Quad with $225+ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏",
-    "email_date": "Fri, 13 Nov 2026 14:35:05 +0000 (UTC)",
+    "preview": "Gift Them Something Extraordinary",
+    "detail": "Gifts under $150, plus 20% off $75+. ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏",
+    "email_date": "Sat, 14 Nov 2026 13:01:30 +0000 (UTC)",
     "discount": "20% off",
     "code": "N/A",
     "tags": [],
     "expires": "N/A",
-    "updated_at": "2026-11-13T16:14:01Z",
+    "updated_at": "2026-11-14T16:52:42Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "YSL Beauty",
@@ -830,7 +830,7 @@
     "expires": "N/A",
     "updated_at": "2026-11-13T16:14:01Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "YSL Beauty",
@@ -847,7 +847,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Sephora",
@@ -864,7 +864,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Sephora",
@@ -881,7 +881,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Ulta",
@@ -898,7 +898,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Harry Rosen",
@@ -915,7 +915,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Holt Renfrew",
@@ -932,7 +932,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Dune London",
@@ -940,16 +940,16 @@
     "category": "Footwear & Accessories",
     "url": "https://www.dunelondon.com",
     "status": "SALE",
-    "preview": "We've never done this before...",
-    "detail": "Our bestselling boots are in Black Friday ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏",
-    "email_date": "Thu, 12 Nov 2026 12:42:34 +0000",
-    "discount": "N/A",
+    "preview": "Iconic bags 🤝 Black Friday",
+    "detail": "Shop up to 30% off now ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏",
+    "email_date": "Fri, 13 Nov 2026 17:19:33 +0000",
+    "discount": "Up to 30% off",
     "code": "N/A",
     "tags": [],
     "expires": "N/A",
-    "updated_at": "2026-11-13T16:14:01Z",
+    "updated_at": "2026-11-14T16:52:42Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Desert Steel",
@@ -966,7 +966,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Strathberry",
@@ -974,16 +974,16 @@
     "category": "Leather Goods & Accessories",
     "url": "https://www.strathberry.com",
     "status": "SALE",
-    "preview": "20% Off Everything: 24 More Hours",
-    "detail": "It&#39;s your last chance to shop our Flash Sale &gt; ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏",
-    "email_date": "Fri, 13 Nov 2026 13:01:54 +0000 (UTC)",
+    "preview": "Only Hours Left to Shop 20% Off",
+    "detail": "Flash Sale ends midnight PT tonight &gt; ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏",
+    "email_date": "Sat, 14 Nov 2026 14:00:53 +0000 (UTC)",
     "discount": "20% off",
     "code": "N/A",
     "tags": [],
     "expires": "N/A",
-    "updated_at": "2026-11-13T16:14:01Z",
+    "updated_at": "2026-11-14T16:52:42Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Revolve",
@@ -1000,7 +1000,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Beard Brand",
@@ -1017,7 +1017,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Sun Bum",
@@ -1034,7 +1034,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Condor Cycles",
@@ -1051,7 +1051,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "SportingLife",
@@ -1068,7 +1068,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Montce Swim",
@@ -1085,7 +1085,7 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   },
   {
     "brand": "Triangl",
@@ -1102,6 +1102,6 @@
     "expires": "N/A",
     "updated_at": "2026-10-06T18:14:56Z",
     "source": "email",
-    "checked_at": "2026-11-13T16:14:01Z"
+    "checked_at": "2026-11-14T16:52:42Z"
   }
 ]
